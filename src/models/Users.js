@@ -42,6 +42,7 @@ module.exports = (sequelize) => {
     phone: {
       type: DataTypes.STRING,
       defaultValue: ''
+    //DNI
     }
   });
 };
